@@ -1498,4 +1498,46 @@
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
 }
+
+.mapsec .firstp {
+  margin-top: 90px;
+  color: gray;
+  font-size: smaller;
+  text-align: center;
+}
+
+.mapsec h1 {
+  text-align: center;
+  font-family: 'Amatic SC';
+  font-size: 50px;
+}
+
+.mapsec h1 span {
+  color: red;
+}
+
+.mapsec .map {
+  margin-top: 30px;
+}
+
+.mapsec .redcircle {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: red;
+  position: relative;
+  margin-top: 6px;
+  margin-left: 7px;
+}
+
+.mapsec .redcircle i {
+  top: 25px;
+  left: 25px;
+  position: absolute;
+  color: white;
+}
+
+.mapsec .cards {
+  background-color: #f4f4f4;
+}
 /*# sourceMappingURL=style.css.map */

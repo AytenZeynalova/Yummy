@@ -1380,3 +1380,44 @@ font-size: large;
     }
 
 }
+
+.mapsec{
+    .firstp{
+        margin-top: 90px;
+    color: gray;
+    font-size: smaller;
+    text-align: center;
+    }
+    h1{
+        text-align: center;
+        font-family: 'Amatic SC';
+        font-size: 50px;
+        span{
+            color: red;
+        }
+    }
+
+    .map{
+        margin-top: 30px;
+    }
+
+    .redcircle{
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        background-color: red;
+        position: relative;
+        margin-top: 6px;
+        margin-left: 7px;
+        i{
+            top: 25px;
+            left: 25px;
+            position: absolute;
+            color: white;
+        }
+    }
+    
+    .cards{
+        background-color: rgb(244, 244, 244);
+    }
+}
